@@ -2,7 +2,7 @@
 By Bamboothesecond
 
 ## Description
-I made this game last 2020 as my Final Project for academic purposes, so most likely I forgot the installation process, I redownloaded this file through the assignment tab so that I can upload it here. Feel free to explore!
+I made this game last 2020 as my **final project** for academic purposes, so most likely I forgot the installation process, I redownloaded this file through the assignment tab so that I can upload it here. Feel free to explore!
 
 Windows Defender might flag this file as containing a virus, but please disregard the warning.
 
